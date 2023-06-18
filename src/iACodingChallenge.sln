@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iACodingChallenge.Console", "iACodingChallenge.Console\iACodingChallenge.Console.csproj", "{7F009641-0E49-46EF-9894-4F826724F58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iACodingChallenge.Library", "iACodingChallenge.Library\iACodingChallenge.Library.csproj", "{DE54E878-D472-4F8E-9F86-7B6349CA96D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F009641-0E49-46EF-9894-4F826724F58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F009641-0E49-46EF-9894-4F826724F58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F009641-0E49-46EF-9894-4F826724F58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F009641-0E49-46EF-9894-4F826724F58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE54E878-D472-4F8E-9F86-7B6349CA96D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE54E878-D472-4F8E-9F86-7B6349CA96D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE54E878-D472-4F8E-9F86-7B6349CA96D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE54E878-D472-4F8E-9F86-7B6349CA96D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98991904-5F93-43A4-B696-32AC781612A8}
+	EndGlobalSection
+EndGlobal
